@@ -1,4 +1,3 @@
-from array import array
 """Create algorithm Fibonacci"""
 
 n = int(input("Введи 'n'\n"))
